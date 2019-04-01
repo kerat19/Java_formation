@@ -16,7 +16,9 @@ public class Run {
 		final String hello = "hello world";
 		final boolean test = true;
 
-		System.out.println("hello world");
+		System.out.println(hello);
+		System.out.println(nbr3);
+
 	}
 
 }
